@@ -15,4 +15,6 @@ I am a Cybersecurity and Forensic Computing student <img src="https://media.giph
 
 - :shipit: I am currently working on something cool.
 
+- Ask me about anything, I am happy to help, only if the ball is in my court!😉
+
 - :handshake: Talk with me, I am kinda awesome [![Linkedin Badge](https://img.shields.io/badge/-Ghaida-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ghaidalamri)
