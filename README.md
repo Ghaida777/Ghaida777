@@ -36,4 +36,5 @@ I am a Cybersecurity and Forensic Computing student <img src="https://media.giph
 --------------------------------------------------------------------------------------------
 
 ### Some of my Projects! 🎨
-<Br> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghaida777&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices) <Br> <hr>
+<Br> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghaida777&repo=OWASP-Top-10-2021-vulnerabilites
+)](https://github.com/Ghaida777/OWASP-Top-10-2021-vulnerabilites) <Br> <hr>
