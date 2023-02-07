@@ -37,4 +37,10 @@ I am a Cybersecurity and Forensic Computing student <img src="https://media.giph
 
 ### Some of my Projects! 🎨
 <Br> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghaida777&repo=OWASP-Top-10-2021-vulnerabilites
-)](https://github.com/Ghaida777/OWASP-Top-10-2021-vulnerabilites) <Br> <hr>
+)](https://github.com/Ghaida777/OWASP-Top-10-2021-vulnerabilites) 
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghaida777&repo=AES-Encryption-and-Decryption-Implementation
+)](https://github.com/Ghaida777/AES-Encryption-and-Decryption-Implementation) <Br> <hr>
+ 
+ 
+ 
