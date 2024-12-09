@@ -1,10 +1,5 @@
 
- ## Hi, I am Ghaida 
-
-<div id="header" >
-  <img src="https://media.giphy.com/media/ryW87OmXokWGUAk4NS/giphy.gif" width="100"/>
-</div>
-
+ ## Hi, I'm Ghaida!
 
 ------------------------------------------------------------------------------------------
 
