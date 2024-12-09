@@ -1,13 +1,9 @@
 
  ## Hi, I am Ghaida 
 
-<div id="header" >
-  <img src="https://media.giphy.com/media/ryW87OmXokWGUAk4NS/giphy.gif" width="100"/>
-</div>
-
 ------------------------------------------------------------------------------------------
 
-###  About Me 👽
+###  About Me 
 
 I am a Cybersecurity and Forensic Computing fresh graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <a href="https://www.upm.edu.sa/en"> Prince Mugrin University.</a> Passionate about technology and committed to protecting digital information and systems. My ultimate goal is to pursue a career in the field of information security and contribute to the protection of valuable data and systems. I am always looking for opportunities to gain hands-on experience and build my skills, and I am excited to see where my education and interests will take me in the future.
 
@@ -15,7 +11,7 @@ I am a Cybersecurity and Forensic Computing fresh graduate <img src="https://med
 
 - :shipit: I am currently working on something cool.
 
-- Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- Ask me about anything, I am happy to help, only if the ball is in my court!
 
 - :handshake: Talk with me, I am kinda awesome  <a href="https://www.linkedin.com/in/ghaidalamri"> Linkedin.</a>
 
@@ -37,7 +33,7 @@ I am a Cybersecurity and Forensic Computing fresh graduate <img src="https://med
 
 --------------------------------------------------------------------------------------------
 
-### Some of my Projects! 🎨
+### Some of my Projects! 
 <Br> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghaida777&repo=OWASP-Top-10-2021-vulnerabilites
 )](https://github.com/Ghaida777/OWASP-Top-10-2021-vulnerabilites) 
  
